@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "885086981085",
+    "firebase_url": "https://bcnbicing-e2411.firebaseio.com",
+    "project_id": "bcnbicing-e2411",
+    "storage_bucket": "bcnbicing-e2411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885086981085:android:6c5969088e242c70",
+        "android_client_info": {
+          "package_name": "com.example.bcnbicing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885086981085-ifdlvc4tc56qrd0aa9dcl7tg63o6goi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bcnbicing",
+            "certificate_hash": "39cb3aa6753b12284ecec3b6e6fdf6efceef771c"
+          }
+        },
+        {
+          "client_id": "885086981085-k79pjhrme8ll7qn0pgnrfvcbosb6dqjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtamnqZNecpzAx-evD1HKKi8PjfFOQ_Xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885086981085-k79pjhrme8ll7qn0pgnrfvcbosb6dqjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
